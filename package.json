@@ -1,5 +1,5 @@
 {
-  "name": "urlscreen-debug",
+  "name": "urlscreenshot",
   "version": "1.0.0",
   "description": "url page screen to pdf or image",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/liyinchigithub/urlScreen-debug.git"
+    "url": "git+ssh://git@github.com/liyinchigithub/urlScreenShot.git"
   },
   "keywords": [
     "screen"
@@ -17,9 +17,9 @@
   "author": "liyinchi@qq.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/liyinchigithub/urlScreen-debug/issues"
+    "url": "https://github.com/liyinchigithub/urlScreenShot/issues"
   },
-  "homepage": "https://github.com/liyinchigithub/urlScreen-debug#readme",
+  "homepage": "https://github.com/liyinchigithub/urlScreenShot#readme",
   "dependencies": {
     "fs": "0.0.1-security",
     "mocha": "^9.0.0",
