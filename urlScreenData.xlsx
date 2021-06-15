@@ -1,0 +1,5 @@
+url	fileName	savePath	username	password	usernameXpath	passwordXpath	loginButtonXpath
+https://www.baidu.com	baidu	./Screen/PIC/					
+https://www.163.com	wangyi	./Screen/PIC/					
+https://www.qq.com	qq	./Screen/PIC/					
+https://www.bing.com	bing	./Screen/PIC/					

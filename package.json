@@ -1,0 +1,29 @@
+{
+  "name": "urlscreen-debug",
+  "version": "1.0.0",
+  "description": "url page screen to pdf or image",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 10000",
+    "start": "node ./src/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/liyinchigithub/urlScreen-debug.git"
+  },
+  "keywords": [
+    "screen"
+  ],
+  "author": "liyinchi@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyinchigithub/urlScreen-debug/issues"
+  },
+  "homepage": "https://github.com/liyinchigithub/urlScreen-debug#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mocha": "^9.0.0",
+    "node-xlsx": "^0.16.1",
+    "puppeteer": "^10.0.0"
+  }
+}
